@@ -1,5 +1,4 @@
 <!---readme---!>
-<body style="background-color:#B9EDFF">
 <h1>
 <ol type="1">
 <li>Please click on code button and click on 'Download zip'</li>
